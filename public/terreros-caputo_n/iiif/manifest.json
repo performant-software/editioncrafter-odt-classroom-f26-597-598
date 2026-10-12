@@ -48,455 +48,6 @@
 			"annotations": [
 				{
 					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z000",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#arch",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:557.3029174804688,993.803955078125,119.0867919921875,313.3863525390625"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z001",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#doric_capital",
-							"motivation": "classifying"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#column",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:272.51226806640625,828.2730102539062,28.966888427734375,250.62640380859375"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z002",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#column",
-							"motivation": "classifying"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#doric_capital",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:934.7278442382812,834.8121337890625,45.45452880859375,129.99993896484375"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z003",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#fluting",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:319.2733154296875,1031.17578125,15.45452880859375,26.3636474609375"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z004",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#fluting",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:925.2391967773438,1001.8114013671875,17.272705078125,45.45458984375"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z007",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#pedestal",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:124.8394546508789,1427.3814697265625,167.92388153076172,71.36767578125"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z008",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#pedestal",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:958.1617431640625,1437.876708984375,122.7943115234375,72.4171142578125"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z010",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#staff",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:224.39430236816406,443.27496337890625,12.727264404296875,25.45452880859375"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z011",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#nude_woman",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:1077.6522216796875,310.0191650390625,17.272705078125,178.18182373046875"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z012",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#drinking_vessel",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:1019.3086547851562,369.9624938964844,32.72723388671875,48.181793212890625"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z009",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#nude_woman",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:158.03067016601562,347.8204040527344,24.545440673828125,66.3636474609375"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z013",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#nude_man",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:357.0652160644531,801.261474609375,56.363616943359375,91.81817626953125"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z014",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#nude_woman",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:812.5197143554688,813.98876953125,67.27276611328125,42.72723388671875"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z015",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#geometric_pattern",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:589.4196166992188,867.5185546875,96.3636474609375,25.45458984375"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z016",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#geometric_pattern",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:532.9387817382812,251.3999786376953,100.90911865234375,11.818191528320312"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
 					"id": "#f0025_z019",
 					"type": "Annotation",
 					"motivation": "tagging",
@@ -520,71 +71,6 @@
 								"conformsTo": "http://www.w3.org/TR/media-frags/",
 								"type": "FragmentSelector",
 								"value": "xywh=pixel:1011.713134765625,596.2417602539062,87.7481689453125,28.2047119140625"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z020",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#dentil_cornice",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:206.31021118164062,605.643310546875,94.01589965820312,28.20477294921875"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z017",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#arch",
-							"motivation": "classifying"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#geometric_pattern",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:569.3024291992188,314.12725830078125,83.6363525390625,11.81817626953125"
 							}
 						]
 					}
@@ -620,93 +106,6 @@
 				},
 				{
 					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z006",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#triglyph",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:392.1319580078125,687.2659301757812,236.3636474609375,27.27276611328125"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z021",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#nude_woman",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:720.626953125,427.3504638671875,19.09088134765625,47.272735595703125"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z023",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#nude_woman",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:526.2022094726562,431.04010009765625,8.18182373046875,61.81817626953125"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
 					"id": "#f0025_z005",
 					"type": "Annotation",
 					"motivation": "tagging",
@@ -730,35 +129,6 @@
 								"conformsTo": "http://www.w3.org/TR/media-frags/",
 								"type": "FragmentSelector",
 								"value": "xywh=pixel:487.0574035644531,612.7205200195312,204.54544067382812,22.72723388671875"
-							}
-						]
-					}
-				},
-				{
-					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z024",
-					"type": "Annotation",
-					"motivation": "tagging",
-					"body": [
-						{
-							"type": "TextualBody",
-							"purpose": "tagging",
-							"format": "text/html"
-						},
-						{
-							"type": "TextualBody",
-							"purpose": "classifying",
-							"format": "text/plain",
-							"value": "#staff",
-							"motivation": "classifying"
-						}
-					],
-					"target": {
-						"selector": [
-							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:682.5658569335938,366.4946594238281,54.54547119140625,6.363616943359375"
 							}
 						]
 					}
@@ -794,7 +164,651 @@
 				},
 				{
 					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z026",
+					"id": "#f0025_z030",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#nude_woman",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='178.21749877929688,286.16595458984375 197.30841064453125,301.6205139160156 188.21749877929688,322.52960205078125 181.85386657714844,332.52960205078125 197.30841064453125,340.71142578125 209.12660217285156,386.16595458984375 243.6720428466797,409.80230712890625 253.6720428466797,422.52960205078125 252.76295471191406,441.6205139160156 240.0356903076172,432.52960205078125 234.58114624023438,409.80230712890625 205.490234375,402.52960205078125 190.9447784423828,496.16595458984375 181.85386657714844,575.2568359375 168.21749877929688,577.0750732421875 163.67205810546875,503.4386901855469 150.0356903076172,427.984130859375 154.58114624023438,384.3477783203125 135.490234375,390.71142578125 137.30841064453125,375.2568664550781 150.0356903076172,342.52960205078125 168.21749877929688,326.16595458984375 160.9447784423828,300.71142578125 165.490234375,289.8023376464844 176.39932250976562,282.52960205078125' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z031",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#nude_woman",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1090.130615234375,570.48095703125 1081.9488525390625,550.48095703125 1090.130615234375,505.93548583984375 1102.85791015625,428.6627502441406 1095.585205078125,383.2082214355469 1112.85791015625,395.0263977050781 1119.2215576171875,377.753662109375 1101.0396728515625,335.93548583984375 1083.7669677734375,325.93548583984375 1096.4942626953125,295.0263977050781 1087.4033203125,282.29913330078125 1066.4942626953125,281.3900146484375 1061.9488525390625,298.6627502441406 1071.0396728515625,320.4809265136719 1045.585205078125,344.1173095703125 1038.3123779296875,358.6627502441406 1060.130615234375,364.1173095703125 1061.0396728515625,393.2082214355469 1049.2215576171875,410.4809265136719 1050.130615234375,440.4809265136719 1058.3123779296875,485.93548583984375 1062.85791015625,516.8445434570312 1067.4033203125,556.8445434570312 1063.7669677734375,566.8445434570312 1089.2215576171875,566.8445434570312' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z032",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#drinking_vessel",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1011.0397338867188,405.93548583984375 1016.4942626953125,379.57183837890625 1047.4033203125,366.8445739746094 1059.2215576171875,382.2991027832031 1049.2215576171875,400.4809265136719 1044.676025390625,412.2991027832031 1034.676025390625,421.3900146484375 1020.130615234375,427.753662109375 1002.85791015625,425.0263977050781 1010.130615234375,419.57183837890625 1014.6760864257812,410.4809265136719 1011.9487915039062,395.0263977050781' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z033",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#geometric_pattern",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='287.33087158203125,575.4511108398438 289.1490478515625,519.0874633789062 316.4217834472656,439.9965515136719 370.0581359863281,361.8147277832031 449.1490478515625,293.6329040527344 538.2399291992188,255.4510955810547 636.4217529296875,243.63291931152344 730.9672241210938,254.54200744628906 800.9672241210938,285.45111083984375 870.05810546875,338.1783752441406 920.05810546875,399.9965515136719 953.6945190429688,475.4510803222656 970.9672241210938,570.9056396484375 955.5126953125,571.8147583007812 949.1490478515625,537.269287109375 934.6035766601562,489.9965515136719 909.1490478515625,427.269287109375 872.785400390625,371.8147277832031 816.4217529296875,321.8147277832031 750.05810546875,287.269287109375 656.4217529296875,262.72381591796875 588.2399291992188,265.45111083984375 503.6944885253906,282.72381591796875 438.2399597167969,327.269287109375 390.0581359863281,362.72381591796875 344.6036071777344,435.45111083984375 318.2399597167969,496.3601989746094 307.33087158203125,574.5419921875 303.69451904296875,571.8147583007812' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z034",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#staff",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='235.37689208984375,443.15765380859375 219.0132598876953,426.79400634765625 224.46780395507812,439.5212707519531 233.5587158203125,446.79400634765625 187.19508361816406,559.5213012695312 189.0132598876953,573.1576538085938 204.46780395507812,574.975830078125 241.7405242919922,568.6121826171875 250.83143615722656,574.0667114257812 259.01324462890625,544.975830078125 253.5587158203125,521.3394775390625 247.195068359375,547.703125 224.46780395507812,555.8848876953125 240.83143615722656,558.6121826171875 227.195068359375,562.24853515625 202.64962768554688,562.24853515625 195.37689208984375,560.4303588867188 241.7405242919922,451.3394470214844 258.1041564941406,461.3394470214844 258.1041564941406,453.15765380859375 239.0132598876953,444.975830078125' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z036",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#column_base",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='903.078125,1319.7568359375 994.8963012695312,1326.1204833984375 1013.078125,1347.029541015625 984.8963012695312,1354.30224609375 927.6235961914062,1354.30224609375 887.6235961914062,1348.8477783203125 882.1690063476562,1339.7568359375 887.6235961914062,1336.1204833984375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z037",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#column_base",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1027.62353515625,1328.8477783203125 1127.62353515625,1329.7568359375 1138.53271484375,1341.574951171875 1124.896240234375,1351.574951171875 1071.2598876953125,1357.029541015625 1029.4417724609375,1355.21142578125 1013.078125,1343.3931884765625 1015.805419921875,1341.574951171875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z040",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#geometric_pattern",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='353.5857849121094,1046.5299072265625 383.5857849121094,1046.5299072265625 413.5857849121094,924.711669921875 465.4039611816406,862.8934936523438 560.8585205078125,811.0753173828125 654.494873046875,802.8934936523438 744.494873046875,833.8026123046875 819.0403442382812,887.43896484375 866.3130493164062,981.0753173828125 876.3130493164062,1042.8934326171875 901.767578125,1043.8026123046875 894.494873046875,981.984375 865.4039306640625,919.2571411132812 825.4039306640625,866.5298461914062 760.8585205078125,810.1661987304688 700.8585205078125,786.5298461914062 617.22216796875,774.711669921875 556.3130493164062,785.6207885742188 493.5857849121094,803.8026123046875 421.7676086425781,861.0753173828125 375.4039611816406,942.8934936523438 354.494873046875,1031.0753173828125' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z042",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#fluting",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='908.80029296875,1138.7421875 985.1639404296875,1142.3785400390625 986.0730590820312,805.1058349609375 915.1639404296875,802.3786010742188' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z043",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#nude_man",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='398.8003234863281,794.9993286132812 398.8003234863281,778.6356811523438 400.6184997558594,773.18115234375 418.8003234863281,771.3629760742188 423.34576416015625,791.3629760742188 443.34576416015625,802.2720336914062 481.527587890625,805.9083862304688 481.527587890625,813.18115234375 436.9821472167969,809.5447998046875 435.1639404296875,827.7265625 413.34576416015625,866.8175048828125 394.2548522949219,893.18115234375 370.6184997558594,878.6356811523438 380.6184997558594,909.5447387695312 370.6184997558594,936.8175048828125 355.1639404296875,973.18115234375 346.9821472167969,972.2720336914062 360.6184997558594,953.18115234375 358.8003234863281,928.6356811523438 347.8912353515625,897.7265625 360.6184997558594,878.6356811523438 354.2548522949219,854.0902099609375 383.34576416015625,859.5447998046875 389.70941162109375,840.453857421875 385.1639404296875,814.0902099609375 385.1639404296875,809.5447998046875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z044",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#nude_woman",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='831.527587890625,796.8175048828125 833.3457641601562,784.9993286132812 837.8912353515625,774.9993286132812 856.0730590820312,776.8175048828125 856.0730590820312,798.6356811523438 856.0730590820312,827.7265625 846.9821166992188,841.3629760742188 871.527587890625,854.0902099609375 902.4366455078125,874.9993286132812 895.1639404296875,890.453857421875 889.7094116210938,935.9083862304688 903.3457641601562,974.0902099609375 896.0730590820312,979.5447387695312 877.8912353515625,920.453857421875 878.80029296875,898.6356811523438 847.8912353515625,882.2720336914062 817.8912353515625,845.9083862304688 814.2548828125,824.9993286132812 814.2548828125,807.7265625 760.6184692382812,811.3629760742188 750.6184692382812,799.5447998046875 755.1639404296875,797.7265625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z046",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#doric_capital",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1034.0777587890625,808.3900756835938 1032.259521484375,781.1173706054688 1014.98681640625,765.662841796875 1033.168701171875,752.935546875 1139.5322265625,750.208251953125 1128.6231689453125,771.1173706054688 1121.3504638671875,801.1173706054688' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z047",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='143.05819702148438,1138.8446044921875 144.87637329101562,797.0264282226562 147.60365295410156,799.753662109375 214.87637329101562,801.5718383789062 223.05819702148438,1141.5718994140625 222.1490936279297,1144.299072265625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z045",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#capital",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='914.98681640625,796.5718994140625 993.1686401367188,801.1173706054688 992.2595825195312,786.5718994140625 1010.4413452148438,752.935546875 904.0777587890625,747.4810180664062 891.3504638671875,768.3900756835938 901.3504638671875,776.5718994140625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z049",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#capital",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='145.10874938964844,785.9147338867188 109.65420532226562,751.3692626953125 226.9269256591797,751.3692626953125 242.3814697265625,760.460205078125 232.3814697265625,776.8238525390625 222.3814697265625,785.9147338867188 219.65420532226562,795.9147338867188 146.01783752441406,793.1874389648438' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z050",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#capital",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='246.01783752441406,752.2783813476562 351.4723815917969,752.2783813476562 363.2905578613281,765.9147338867188 357.8360290527344,778.6420288085938 339.6542053222656,792.2783813476562 263.2905578613281,790.460205078125 263.2905578613281,772.2783813476562 252.3814697265625,768.6420288085938' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z048",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#fluting",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='315.78546142578125,807.0264282226562 319.42181396484375,1144.299072265625 343.96728515625,1144.299072265625 339.42181396484375,799.753662109375 340.3309020996094,800.6627807617188' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z035",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#column",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1038.107666015625,807.1021728515625 1115.3804931640625,807.1021728515625 1117.1986083984375,1138.01123046875 1033.562255859375,1140.738525390625 1032.6531982421875,1136.193115234375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z039",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#geometric_pattern",
+							"motivation": "classifying"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#coffered_ceiling",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='412.67669677734375,1041.0753173828125 416.31304931640625,983.8025512695312 449.94940185546875,915.6207885742188 526.3130493164062,857.43896484375 596.3130493164062,831.0753173828125 673.5857543945312,836.5298461914062 744.494873046875,864.711669921875 801.767578125,915.6207885742188 839.9494018554688,985.6207885742188 849.9494018554688,1043.8026123046875 786.3130493164062,1066.5299072265625 771.767578125,1017.43896484375 737.2221069335938,963.8025512695312 691.767578125,932.8934936523438 618.1312255859375,917.43896484375 545.4039306640625,940.1661987304688 490.8584899902344,991.0753173828125 468.1312255859375,1057.43896484375 468.1312255859375,1057.43896484375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z041",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#arch",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='416.68408203125,1578.5504150390625 433.64990234375,1554.044189453125 429.87969970703125,1501.2615966796875 458.15606689453125,1503.146728515625 467.58154296875,1092.1968994140625 492.08770751953125,1082.771484375 467.58154296875,1054.4951171875 490.20263671875,984.7467041015625 548.6404418945312,941.3895874023438 618.3887939453125,918.7684936523438 699.44775390625,939.5045166015625 767.31103515625,1005.4827270507812 784.27685546875,1054.4951171875 771.0811767578125,1080.8863525390625 784.27685546875,1107.277587890625 778.62158203125,1480.525634765625 812.55322265625,1493.7213134765625 814.4382934570312,1548.388916015625 833.2891845703125,1571.010009765625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z051",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#pilaster",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='406.9808349609375,1350.0750732421875 406.0717468261719,1075.5296630859375 347.8899230957031,1076.438720703125 346.9808349609375,1320.0750732421875 353.344482421875,1333.71142578125 366.0717468261719,1337.3477783203125 367.8899230957031,1352.8023681640625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z052",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#pilaster",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='848.7990112304688,1093.71142578125 902.4353637695312,1093.71142578125 902.4353637695312,1316.438720703125 885.1626586914062,1334.62060546875 882.4353637695312,1351.893310546875 849.7081298828125,1352.8023681640625 849.7081298828125,1349.166015625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z053",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#triglyph",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='380.73858642578125,650.1385498046875 884.7385864257812,654.502197265625 908.7385864257812,674.1385498046875 917.4658203125,710.1385498046875 902.193115234375,730.8658447265625 355.6476745605469,733.0476684570312 350.193115234375,718.8658447265625 351.2840270996094,661.0476684570312 379.6476745605469,647.9567260742188' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z054",
 					"type": "Annotation",
 					"motivation": "tagging",
 					"body": [
@@ -814,16 +828,71 @@
 					"target": {
 						"selector": [
 							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:686.2022094726562,429.221923828125,19.0909423828125,66.36361694335938"
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='669.0667114257812,416.32037353515625 674.521240234375,398.1385498046875 679.9757690429688,390.8658447265625 698.1575927734375,401.7749328613281 697.24853515625,411.7749328613281 689.9757690429688,421.7749328613281 706.3394165039062,430.8658447265625 706.3394165039062,462.68402099609375 710.8848876953125,489.95672607421875 729.9757690429688,520.8658447265625 767.24853515625,529.9567260742188 770.8848876953125,546.3203735351562 741.7939453125,556.3203735351562 718.1575927734375,562.6840209960938 693.6121826171875,549.9567260742188 683.6121826171875,550.8658447265625 683.6121826171875,575.4112548828125 668.1575927734375,573.5930786132812 672.7030639648438,549.9567260742188 676.3394165039062,533.5930786132812 665.4303588867188,542.6840209960938 650.8848876953125,531.77490234375 646.3394165039062,547.2294921875 635.4303588867188,548.1385498046875 649.0667114257812,520.8658447265625 665.4303588867188,529.9567260742188 668.1575927734375,513.5930786132812 672.7030639648438,493.5931091308594 667.24853515625,474.502197265625 648.1575927734375,479.95672607421875 638.1575927734375,478.1385498046875 651.7939453125,461.7749328613281 664.521240234375,453.5931091308594 659.9757690429688,433.5931091308594 649.0667114257812,417.2294616699219 642.7030639648438,399.95672607421875 658.1575927734375,379.95672607421875 670.8848876953125,367.2294616699219 679.9757690429688,368.1385498046875 669.0667114257812,382.68402099609375 659.0667114257812,397.2294616699219 659.0667114257812,412.68402099609375 659.0667114257812,411.7749328613281' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
 							}
 						]
 					}
 				},
 				{
 					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z027",
+					"id": "#f0025_z055",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#staff",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='686.3394165039062,370.8658447265625 724.521240234375,368.1385498046875 724.521240234375,364.502197265625 739.9757690429688,372.68402099609375 727.24853515625,375.4112854003906 687.24853515625,375.4112854003906' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z056",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#nude_woman",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='708.1575927734375,427.2294616699219 717.24853515625,409.0476379394531 709.0667114257812,400.8658447265625 709.0667114257812,395.4112854003906 720.8848876953125,403.5931091308594 731.7939453125,395.4112854003906 738.1575927734375,406.32037353515625 727.24853515625,427.2294616699219 749.0667114257812,443.5931091308594 749.0667114257812,457.2294616699219 742.7030639648438,478.1385498046875 787.24853515625,510.8658142089844 796.3394165039062,569.0476684570312 809.0667114257812,602.6840209960938 796.3394165039062,593.5930786132812 779.0667114257812,550.8658447265625 769.9757690429688,520.8658447265625 729.0667114257812,513.5930786132812 712.7030639648438,481.7749328613281' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z057",
 					"type": "Annotation",
 					"motivation": "tagging",
 					"body": [
@@ -843,16 +912,43 @@
 					"target": {
 						"selector": [
 							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:761.6567993164062,454.67645263671875,19.09088134765625,23.636383056640625"
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='757.24853515625,479.95672607421875 759.0667114257812,459.95672607421875 752.7030639648438,439.0476379394531 769.9757690429688,433.5931091308594 772.7030639648438,458.1385498046875 782.7030639648438,489.95672607421875 781.7939453125,498.1385498046875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
 							}
 						]
 					}
 				},
 				{
 					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z022",
+					"id": "#f0025_z058",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#hybrid_unknown",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='779.0667114257812,413.5931091308594 798.1575927734375,425.4112854003906 798.1575927734375,428.1385498046875 798.1575927734375,407.2294616699219 807.24853515625,406.32037353515625 820.8848876953125,439.95672607421875 821.7939453125,452.68402099609375 832.7030639648438,479.0476379394531 839.0667114257812,479.0476379394531 839.0667114257812,461.7749328613281 843.6121826171875,450.8658142089844 851.7939453125,450.8658142089844 857.24853515625,458.1385498046875 874.521240234375,495.4112854003906 859.0667114257812,504.502197265625 839.9757690429688,508.1385498046875 831.7939453125,494.502197265625 834.521240234375,525.4112548828125 828.1575927734375,539.0476684570312 808.1575927734375,533.5930786132812 809.0667114257812,522.6840209960938 818.1575927734375,522.6840209960938 818.1575927734375,511.7749328613281 797.24853515625,513.5930786132812 796.3394165039062,516.3203735351562 793.6121826171875,505.4112854003906 802.7030639648438,478.1385498046875 795.4303588867188,436.32037353515625 773.6121826171875,416.32037353515625 769.9757690429688,400.8658447265625 777.24853515625,400.8658447265625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z059",
 					"type": "Annotation",
 					"motivation": "tagging",
 					"body": [
@@ -872,16 +968,43 @@
 					"target": {
 						"selector": [
 							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:573.4749755859375,432.8582763671875,13.6363525390625,43.6363525390625"
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='568.1575927734375,406.32037353515625 587.24853515625,400.8658447265625 601.7940063476562,400.8658447265625 601.7940063476562,417.2294616699219 597.24853515625,429.0476379394531 605.4303588867188,448.1385498046875 607.24853515625,456.32037353515625 625.4303588867188,458.1385498046875 618.1575927734375,466.32037353515625 604.521240234375,463.5931091308594 599.0667114257812,486.32037353515625 587.24853515625,507.2294616699219 586.3394165039062,529.0476684570312 578.1575927734375,533.5930786132812 557.24853515625,536.3203735351562 557.24853515625,549.0476684570312 593.6121826171875,533.5930786132812 613.6121826171875,559.0476684570312 621.7940063476562,589.9567260742188 606.3394165039062,581.77490234375 598.1575927734375,558.1385498046875 587.24853515625,548.1385498046875 551.7940063476562,561.77490234375 536.3394165039062,566.3203735351562 519.0667114257812,538.1385498046875 514.521240234375,513.5930786132812 552.7030639648438,496.32037353515625 556.3394165039062,479.95672607421875 556.3394165039062,439.0476379394531 569.9757690429688,419.95672607421875 576.3394165039062,417.2294616699219' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
 							}
 						]
 					}
 				},
 				{
 					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z028",
+					"id": "#f0025_z060",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#nude_woman",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='511.7939758300781,542.6840209960938 510.8848876953125,502.68402099609375 508.1576232910156,485.4112854003906 520.8848876953125,501.7749328613281 549.0667114257812,484.502197265625 551.7940063476562,458.1385498046875 553.6121826171875,431.7749328613281 555.4303588867188,425.4112854003906 557.24853515625,408.1385498046875 557.24853515625,399.95672607421875 545.4303588867188,389.95672607421875 531.7940063476562,398.1385498046875 528.1575927734375,407.2294616699219 529.9757690429688,419.95672607421875 525.4303588867188,427.2294616699219 516.3394165039062,463.5931091308594 494.521240234375,486.32037353515625 483.6121520996094,523.5930786132812 482.70306396484375,538.1385498046875 488.1576232910156,541.77490234375 497.24853515625,541.77490234375 497.24853515625,519.9567260742188 504.521240234375,516.3203735351562' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z061",
 					"type": "Annotation",
 					"motivation": "tagging",
 					"body": [
@@ -901,16 +1024,15 @@
 					"target": {
 						"selector": [
 							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:420.7476806640625,452.8582763671875,13.636383056640625,73.6363525390625"
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='401.7939758300781,495.4112854003906 389.9757995605469,502.68402099609375 383.6121520996094,504.502197265625 385.43035888671875,524.502197265625 377.24853515625,549.9567260742188 406.3394470214844,549.0476684570312 429.06671142578125,544.502197265625 438.1576232910156,564.502197265625 443.6121520996094,560.8658447265625 443.6121520996094,543.5930786132812 438.1576232910156,537.2294921875 416.3394470214844,528.1385498046875 431.7939758300781,505.4112854003906 439.06671142578125,493.5931091308594 449.9757995605469,454.502197265625 451.7939758300781,439.0476379394531 451.7939758300781,414.502197265625 434.521240234375,414.502197265625 419.06671142578125,429.95672607421875 400.8848876953125,455.4112854003906 393.6121520996094,470.8658142089844 381.7939758300781,485.4112854003906 381.7939758300781,492.68402099609375 382.70306396484375,500.8658142089844' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
 							}
 						]
 					}
 				},
 				{
 					"@context": "https://www.w3.org/ns/anno.jsonld",
-					"id": "#f0025_z029",
+					"id": "#f0025_z062",
 					"type": "Annotation",
 					"motivation": "tagging",
 					"body": [
@@ -923,16 +1045,99 @@
 							"type": "TextualBody",
 							"purpose": "classifying",
 							"format": "text/plain",
-							"value": "#hybrid_unknown",
+							"value": "#geometric_pattern",
 							"motivation": "classifying"
 						}
 					],
 					"target": {
 						"selector": [
 							{
-								"conformsTo": "http://www.w3.org/TR/media-frags/",
-								"type": "FragmentSelector",
-								"value": "xywh=pixel:805.2931518554688,434.67645263671875,20,27.272735595703125"
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='349.9757995605469,576.3203735351562 382.70306396484375,480.8658142089844 393.6121520996094,460.8658142089844 437.24853515625,408.1385498046875 503.6121520996094,360.8658447265625 570.8848876953125,338.1385498046875 634.521240234375,334.502197265625 719.0667114257812,343.5931091308594 769.0667114257812,370.8658447265625 829.9757690429688,404.502197265625 860.8848876953125,452.68402099609375 888.1575927734375,512.6840209960938 903.6121215820312,568.1385498046875 916.3394165039062,569.9567260742188 916.3394165039062,519.0476684570312 885.4303588867188,451.7749328613281 861.7939453125,411.7749328613281 818.1575927734375,359.95672607421875 771.7939453125,323.5931091308594 704.521240234375,305.4112854003906 623.6121826171875,292.68402099609375 561.7940063476562,302.68402099609375 495.4303283691406,322.68402099609375 439.9757995605469,365.4112854003906 373.6121520996094,437.2294616699219 348.1576232910156,500.8658142089844 338.1576232910156,571.77490234375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z063",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#arch",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='316.3394470214844,575.4112548828125 322.70306396484375,502.68402099609375 370.8848876953125,403.5931091308594 444.521240234375,335.4112854003906 566.3394165039062,280.8658447265625 674.521240234375,279.9567565917969 753.6121826171875,293.5931091308594 810.8848876953125,331.7749328613281 884.521240234375,397.2294616699219 919.9757690429688,457.2294616699219 933.6121215820312,509.0476379394531 939.0667114257812,570.8658447265625 920.8848876953125,569.0476684570312 917.24853515625,506.32037353515625 887.24853515625,443.5931091308594 849.9757690429688,392.68402099609375 799.0667114257812,342.68402099609375 745.4303588867188,309.9567565917969 675.4303588867188,294.502197265625 606.3394165039062,293.5931091308594 519.9757690429688,313.5931091308594 444.521240234375,359.95672607421875 387.24853515625,413.5931091308594 355.43035888671875,479.0476379394531 332.70306396484375,574.502197265625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z038",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#pedestal",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='860.6417846679688,1358.501708984375 1156.60107421875,1360.38671875 1184.87744140625,1374.52490234375 1178.279541015625,1392.433349609375 1158.486083984375,1401.8587646484375 1155.658447265625,1536.642822265625 1184.87744140625,1561.14892578125 1187.705078125,1614.8740234375 871.009765625,1612.9888916015625 855.9290771484375,1572.45947265625 857.8141479492188,1536.642822265625 875.7225341796875,1565.8616943359375 893.630859375,1543.2406005859375 901.1712646484375,1403.743896484375 866.2970581054688,1355.674072265625 870.0672607421875,1359.4442138671875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0025_z064",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#pedestal",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='61.31891632080078,1611.0546875 387.2825622558594,1625.4547119140625 371.573486328125,1616.291015625 395.1371154785156,1575.709228515625 393.8280334472656,1535.12744140625 368.9552917480469,1502.400146484375 367.6462097167969,1385.8909912109375 78.33709716796875,1379.3455810546875 101.9007339477539,1398.98193359375 100.59164428710938,1536.4365234375 65.2461929321289,1558.6910400390625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
 							}
 						]
 					}
