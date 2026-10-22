@@ -692,6 +692,9 @@
 							</category>
 							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949f">
 								<catDesc>arch</catDesc>
+								<category n="half_arch" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94cde5b2e05341c26f4b9" xml:id="half_arch">
+									<catDesc>half_arch</catDesc>
+								</category>
 								<category n="keystone" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6abba3594879ddaab89620b5" xml:id="keystone">
 									<catDesc>keystone</catDesc>
 								</category>
@@ -743,9 +746,6 @@
 							</category>
 							<category n="unpunched_rivet_hole" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94ccc5b2e05341c26f4b8" xml:id="unpunched_rivet_hole">
 								<catDesc>unpunched_rivet_hole</catDesc>
-							</category>
-							<category n="half_arch" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94cde5b2e05341c26f4b9" xml:id="half_arch">
-								<catDesc>half_arch</catDesc>
 							</category>
 							<category n="dome" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e955265b2e05341c26f4c0" xml:id="dome">
 								<catDesc>dome</catDesc>
@@ -968,6 +968,54 @@
 							</category>
 							<category n="vitruvian_scroll" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6abd3dd54879ddaab89620fb" xml:id="vitruvian_scroll">
 								<catDesc>vitruvian_scroll</catDesc>
+							</category>
+							<category n="diaper_pattern" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79c364879ddaab896216d" xml:id="diaper_pattern">
+								<catDesc>diaper_pattern</catDesc>
+							</category>
+							<category n="checkerboard" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79c7e4879ddaab896216f" xml:id="checkerboard">
+								<catDesc>checkerboard</catDesc>
+							</category>
+							<category n="wave" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79c894879ddaab8962170" xml:id="wave">
+								<catDesc>wave</catDesc>
+							</category>
+							<category n="reed_and_tie" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79c954879ddaab8962171" xml:id="reed_and_tie">
+								<catDesc>reed_and_tie</catDesc>
+							</category>
+							<category n="ogee_pattern" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79ca14879ddaab8962172" xml:id="ogee_pattern">
+								<catDesc>ogee_pattern</catDesc>
+							</category>
+							<category n="diagonal_pattern" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79cb04879ddaab8962173" xml:id="diagonal_pattern">
+								<catDesc>diagonal_pattern</catDesc>
+							</category>
+							<category n="chevron_pattern" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79cbb4879ddaab8962174" xml:id="chevron_pattern">
+								<catDesc>chevron_pattern</catDesc>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79d504879ddaab8962179">
+								<catDesc>motif</catDesc>
+								<category n="base_motif" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79c5f4879ddaab896216e" xml:id="base_motif">
+									<catDesc>base_motif</catDesc>
+								</category>
+								<category n="rosette" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79cff4879ddaab8962175" xml:id="rosette">
+									<catDesc>rosette</catDesc>
+								</category>
+								<category n="heart" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79d0b4879ddaab8962176" xml:id="heart">
+									<catDesc>heart</catDesc>
+								</category>
+								<category n="leaf" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79d264879ddaab8962177" xml:id="leaf">
+									<catDesc>leaf</catDesc>
+								</category>
+								<category n="cross" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79d404879ddaab8962178" xml:id="cross">
+									<catDesc>cross</catDesc>
+								</category>
+								<category n="star" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79db34879ddaab896217a" xml:id="star">
+									<catDesc>star</catDesc>
+								</category>
+								<category n="diamond" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6acf90af8f09414fc2be93ac" xml:id="diamond">
+									<catDesc>diamond</catDesc>
+								</category>
+								<category n="unknown_motif" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6acf90f58f09414fc2be93ad" xml:id="unknown_motif">
+									<catDesc>unknown_motif</catDesc>
+								</category>
 							</category>
 						</category>
 						<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d0">
@@ -1383,9 +1431,6 @@
 							<category n="key" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6abba8164879ddaab89620e3" xml:id="key">
 								<catDesc>key</catDesc>
 							</category>
-							<category n="star" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac38bca4879ddaab896210e" xml:id="star">
-								<catDesc>star</catDesc>
-							</category>
 						</category>
 						<category n="fire" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e955645b2e05341c26f4c1" xml:id="fire">
 							<catDesc>fire</catDesc>
@@ -1402,6 +1447,32 @@
 		<surface xml:id="f0056" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/6ab13cb4dad5c03980aab520">
 			<label>Deorum dearumque ca… (56)</label>
 			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/public:rbc:2021rosen1197:0114"/>
+		</surface>
+		<surface xml:id="f0017" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/6ace6211333de8929c2ec32e">
+			<label>Variarum protr… 1555 (17)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/2ec3/6ace6211333de8929c2ec32e/files/image/C17.tif"/>
+			<zone xml:id="f0017_z000" points="1136.501953125,2080.65087890625 1755.1988525390625,2182.3544921875 1467.0386962890625,2648.495849609375 1467.0386962890625,2644.25830078125 1462.801025390625,2644.25830078125" ana="#floral_pattern">
+				<note>spade</note>
+			</zone>
+			<zone xml:id="f0017_z001" points="163.2620086669922,1931.7103271484375 482.131591796875,1946.8946533203125 504.9079895019531,2250.579833984375 155.6698760986328,2208.8232421875 151.87380981445312,2208.8232421875" ana="#flower">
+				<note>flower</note>
+			</zone>
+			<zone xml:id="f0017_z002" points="1462.552734375,136.81365966796875 1454.0775146484375,136.81365966796875 1971.07080078125,119.8630599975586 2038.8731689453125,509.7268371582031 1572.731689453125,518.2021484375 1564.25634765625,492.7762451171875 1555.7811279296875,492.7762451171875" ana="#club">
+				<note>clove</note>
+			</zone>
+			<zone xml:id="f0017_z003" points="911.6583251953125,3281.14990234375 1250.6702880859375,3247.24853515625 1250.6702880859375,3264.19921875 1259.1456298828125,3628.63720703125 979.460693359375,3654.06298828125 970.9854125976562,3654.06298828125" ana="#scroll">
+				<note>lemniscate</note>
+			</zone>
+			<zone xml:id="f0017_z004" points="1547.8111572265625,3807.16748046875 1976.9713134765625,3852.127197265625 1972.8841552734375,4269.025390625 1592.7708740234375,4297.63623046875 1588.68359375,4297.63623046875" ana="#diamond">
+				<note>vortex</note>
+			</zone>
+			<zone xml:id="f0017_z005" points="93.45284271240234,1276.874267578125 563.323486328125,1258.567626953125 563.323486328125,1758.9493408203125 62.94176483154297,1752.8470458984375 69.04398345947266,1734.5404052734375" ana="#diamond">
+				<note>diamond/hex</note>
+			</zone>
+			<zone xml:id="f0017_z006" points="2930.5302734375,1277.434326171875 3406.5029296875,1301.8431396484375 3412.605224609375,1744.2537841796875 2939.68359375,1741.20263671875 2936.63232421875,1741.20263671875" ana=""/>
+			<zone xml:id="f0017_z007" ulx="2072.7744140625" uly="341.6946105957031" lrx="3344.0693359375" lry="1231.60107421875" ana="#corinthian_capital">
+				<note>tapestry</note>
+			</zone>
 		</surface>
 	</facsimile>
 	<text xml:id="transcription">

@@ -692,6 +692,9 @@
 							</category>
 							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949f">
 								<catDesc>arch</catDesc>
+								<category n="half_arch" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94cde5b2e05341c26f4b9" xml:id="half_arch">
+									<catDesc>half_arch</catDesc>
+								</category>
 								<category n="keystone" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6abba3594879ddaab89620b5" xml:id="keystone">
 									<catDesc>keystone</catDesc>
 								</category>
@@ -743,9 +746,6 @@
 							</category>
 							<category n="unpunched_rivet_hole" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94ccc5b2e05341c26f4b8" xml:id="unpunched_rivet_hole">
 								<catDesc>unpunched_rivet_hole</catDesc>
-							</category>
-							<category n="half_arch" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94cde5b2e05341c26f4b9" xml:id="half_arch">
-								<catDesc>half_arch</catDesc>
 							</category>
 							<category n="dome" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e955265b2e05341c26f4c0" xml:id="dome">
 								<catDesc>dome</catDesc>
@@ -968,6 +968,54 @@
 							</category>
 							<category n="vitruvian_scroll" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6abd3dd54879ddaab89620fb" xml:id="vitruvian_scroll">
 								<catDesc>vitruvian_scroll</catDesc>
+							</category>
+							<category n="diaper_pattern" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79c364879ddaab896216d" xml:id="diaper_pattern">
+								<catDesc>diaper_pattern</catDesc>
+							</category>
+							<category n="checkerboard" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79c7e4879ddaab896216f" xml:id="checkerboard">
+								<catDesc>checkerboard</catDesc>
+							</category>
+							<category n="wave" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79c894879ddaab8962170" xml:id="wave">
+								<catDesc>wave</catDesc>
+							</category>
+							<category n="reed_and_tie" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79c954879ddaab8962171" xml:id="reed_and_tie">
+								<catDesc>reed_and_tie</catDesc>
+							</category>
+							<category n="ogee_pattern" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79ca14879ddaab8962172" xml:id="ogee_pattern">
+								<catDesc>ogee_pattern</catDesc>
+							</category>
+							<category n="diagonal_pattern" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79cb04879ddaab8962173" xml:id="diagonal_pattern">
+								<catDesc>diagonal_pattern</catDesc>
+							</category>
+							<category n="chevron_pattern" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79cbb4879ddaab8962174" xml:id="chevron_pattern">
+								<catDesc>chevron_pattern</catDesc>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79d504879ddaab8962179">
+								<catDesc>motif</catDesc>
+								<category n="base_motif" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79c5f4879ddaab896216e" xml:id="base_motif">
+									<catDesc>base_motif</catDesc>
+								</category>
+								<category n="rosette" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79cff4879ddaab8962175" xml:id="rosette">
+									<catDesc>rosette</catDesc>
+								</category>
+								<category n="heart" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79d0b4879ddaab8962176" xml:id="heart">
+									<catDesc>heart</catDesc>
+								</category>
+								<category n="leaf" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79d264879ddaab8962177" xml:id="leaf">
+									<catDesc>leaf</catDesc>
+								</category>
+								<category n="cross" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79d404879ddaab8962178" xml:id="cross">
+									<catDesc>cross</catDesc>
+								</category>
+								<category n="star" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac79db34879ddaab896217a" xml:id="star">
+									<catDesc>star</catDesc>
+								</category>
+								<category n="diamond" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6acf90af8f09414fc2be93ac" xml:id="diamond">
+									<catDesc>diamond</catDesc>
+								</category>
+								<category n="unknown_motif" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6acf90f58f09414fc2be93ad" xml:id="unknown_motif">
+									<catDesc>unknown_motif</catDesc>
+								</category>
 							</category>
 						</category>
 						<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d0">
@@ -1383,9 +1431,6 @@
 							<category n="key" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6abba8164879ddaab89620e3" xml:id="key">
 								<catDesc>key</catDesc>
 							</category>
-							<category n="star" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/6ac38bca4879ddaab896210e" xml:id="star">
-								<catDesc>star</catDesc>
-							</category>
 						</category>
 						<category n="fire" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e955645b2e05341c26f4c1" xml:id="fire">
 							<catDesc>fire</catDesc>
@@ -1402,6 +1447,10 @@
 		<surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b1ba3da12d491d55ce5">
 			<label>Coenotaphiorum (9)</label>
 			<graphic mimeType="application/json" url="https://iiif.micr.io/YjYGY"/>
+		</surface>
+		<surface xml:id="f0015" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/6acd9e86b41fbbed2607ab09">
+			<label>Livre contenant pas… (15)</label>
+			<graphic mimeType="application/json" url="https://bibliotheque-numerique.inha.fr/i/?IIIF=/59/91/61/7b/5991617b-a098-4948-84ac-771a6ea8e9d8/iiif/1068_doucet_8RES118_000020.tif"/>
 		</surface>
 	</facsimile>
 	<text xml:id="transcription">
